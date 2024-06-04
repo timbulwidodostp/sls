@@ -1,5 +1,8 @@
-d 'DEA': Data envelopment analysis
+d 'sls': Semiparametric Least Squares from Ichimura, 1993 Use sls With STATA 18
 d
-f dea.ado
-f dea.sthlp
-f coelli_table6.4.dta
+f _init_options.ado
+f lsls.mlib
+f sls.ado
+f sls.sthlp
+f sls_p.ado
+f sls_postestimation.sthlp
