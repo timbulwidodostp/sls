@@ -2,4 +2,4 @@
 1
 2
 3
-p dea Data envelopment analysis
+p sls Semiparametric Least Squares from Ichimura, 1993 Use sls With STATA 18
