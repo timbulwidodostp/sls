@@ -1,6 +1,8 @@
 # sls
 Semiparametric Least Squares from Ichimura, 1993 Use sls With STATA 18
 
+https://www.youtube.com/watch?v=AEHXQukrVzI
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
